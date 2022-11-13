@@ -26,7 +26,7 @@ MANTER A SAÚDE, POR MEIO DE UMA ALIMENTAÇÃO BALANCIADA
  <p style="font-size: 40px"><strong> A2 (altura x altura) </strong></p>
 
     <p style="font-size: 30px"><em>IMC (Kg/m²)</em></p>	
-<p>Estado Nutricional</p>
+<h2>Estado Nutricional</h2>
 <p>Menor que 18,5</p>
 <p>Você está com baixo peso 18,5 a 24,99</p>
 <p>O seu peso está adequado25 a 29,99</p>
